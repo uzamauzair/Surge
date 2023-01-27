@@ -1,0 +1,10 @@
+{
+    "Surge": {
+        "name": "Surge-prod",
+        "dbConfig": {
+            "dbName": "Surge",
+            "dbHostLink": ""
+        },
+        "jwtPrivateKey": ""
+    }
+}

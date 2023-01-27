@@ -1,0 +1,9 @@
+{
+    "Surge": {
+        "name": "Surge",
+        "dbConfig": {
+            "dbName": "Surge"
+        },
+        "jwtPrivateKey": ""
+    }
+}

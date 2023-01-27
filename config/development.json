@@ -1,0 +1,10 @@
+{
+    "Surge": {
+        "name": "Surge-dev",
+        "dbConfig": {
+            "dbName": "Surge",
+            "dbHostLink": "mongodb://localhost/"
+        },
+        "jwtPrivateKey": ""
+    }
+}
